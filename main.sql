@@ -2,6 +2,7 @@
 -- atlas:import schemas/mis_tareas/mis_tareas.sql
 -- atlas:import schemas/cuoco/tables/categories.sql
 -- atlas:import schemas/cuoco/tables/plan_configuration.sql
+-- atlas:import schemas/mis_tareas/tables/user.sql
 -- atlas:import schemas/mis_tareas/tables/tasks.sql
 -- atlas:import schemas/cuoco/tables/units.sql
 -- atlas:import schemas/cuoco/tables/ingredients.sql
